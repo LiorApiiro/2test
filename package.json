@@ -1,0 +1,11 @@
+{
+  "name": "2test-dedup-probe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency manifest added to observe scanEntityDatas key generation (LIM-41392 / LIM-45545).",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "express": "4.21.2",
+    "axios": "1.7.9"
+  }
+}
